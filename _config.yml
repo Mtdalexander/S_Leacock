@@ -20,12 +20,12 @@ source-code: https://mtdalexander.github.io/S_Leacock/
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: The Stephen Leacock Museum
+title: Small Gems of Canada Podcast
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: Episode 1 - The Stephen Leacock Museum
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A podcast looking at the history of the Stephen Leacock Museum in Orillia."
+description: "In this podcast we give a brief history of Stephen Leacock and the Stephen Leacock Museum. We will learn about how The Old Brewery Bay came to become a museum, its place as a national Canadian historic treasure, and how it serves as a piece of the local heritage of Orillia. "
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Matthew Alexander
 
@@ -71,7 +71,7 @@ metadata: cb4840gh
 # (this is done automatically by gh-pages build)
 #
 # ignore stuff
-exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md]
+exclude: [docs/, Rakefile, README.md, LICENSE, CITATION.cff, CODE_OF_CONDUCT.md, CONTRIBUTING.md, subjects.md, locations.md]
 # compress CSS output
 sass:
   style: compressed
