@@ -20,18 +20,22 @@ Small Gems Podcast: Episode 1
 The Stephen Leacock Museum
 
 Author:
+
 Matthew Alexander
 
 Description:
+
 We all need a good laugh, and Canadians have proven themselves, time and time again, to possess a robust sense of humour. But, have you ever wondered where that humour could have come from? Have you ever asked yourself, who was one of the first great pioneers of Canadian humour? For many, the answer is Stephen Leacock, one of the most prolific authors of Canadian humour in the first half of the twentieth-century, and today the Leacock Museum, on the coast of Old Brewery Bay, stands as a monument to his historical and literary legacy. 
 
 In this podcast we give a brief history of Stephen Leacock and the Stephen Leacock Museum. We will learn about how The Old Brewery Bay came to become a museum, its place as a national Canadian historic treasure, and how it serves as a piece of the local heritage of Orillia. 
 
-Acknowledgments:
-We would like to thank Jenny Martynyshyn for allowing us to interview her.
+Guest:
 
-Guests:
 Jenny Martynyshyn, Museum Coordinator. 
+
+Acknowledgments:
+
+We would like to thank Jenny Martynyshyn for allowing us to interview her.
 
 References:
 
