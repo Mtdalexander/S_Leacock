@@ -42,7 +42,7 @@ year-nav-increment: 5 # set increments when auto gen nav years
 
 # SUBJECTS PAGE
 #
-subjects-fields: # set the field to be featured in the cloud (if left blank, none will be generated)
+subjects-fields: subject # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
@@ -50,7 +50,7 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 # LOCATIONS PAGE
 #
 locations-fields: # set the field to be featured in the cloud
-locations-min: 1 # min size for subject cloud, too many terms = slow load time!
+locations-min: # min size for subject cloud, too many terms = slow load time!
 locations-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
